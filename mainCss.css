@@ -1,0 +1,47 @@
+*{
+    margin: 0;
+    padding: 0;
+    list-style-type: none;
+    text-decoration: none;
+}
+.index{
+    width: 600px;
+    height: 500px;
+    margin: 0 auto;
+    position: relative;
+}
+.imgDisplay{
+    display: flex;
+    width: 100px;
+    height: 100px;
+    margin: 25px 35%;
+    position: relative;
+}
+.now-left{
+    position: absolute;
+    top: 45%
+    
+}
+.now-right{
+    position: absolute;
+    top: 45%;
+    left:96%;
+}
+.ul_dian{
+    position: absolute;
+    top: 100%;
+    left: 40%;
+}
+.ul_dian li{
+    float: left;
+}
+.point{
+    width: 10px;
+    height: 10px;
+    margin: 5px;
+    background-color: #aaa;
+    border-radius: 100%;
+}
+.point-active{
+    background-color: red;
+}
