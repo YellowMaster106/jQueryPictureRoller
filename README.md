@@ -1,1 +1,2 @@
 # jQueryPictureRoller
+使用了jQuery技术的轮播图，效果与之前的PictureRoller一样，几乎只是将js代码翻译成jQuery语法而已，学习用
